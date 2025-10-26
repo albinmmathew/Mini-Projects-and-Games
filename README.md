@@ -4,7 +4,7 @@ MINESWEEPER GAME IN C BY IMPLEMENTING DATA STRUCTURES
 BOARD SIZE -> 8X8
 MINES -> 10
 INSTRUCTIONS TO PLAY:
-    REVEAL TILE : r <rowno> <columnno>
-    FLAG TILE   : f <rowno> <columnno>
+    REVEAL TILE : r rowno colno
+    FLAG TILE   : f rowno colno
     UNDO        : u
     QUIT        : q
